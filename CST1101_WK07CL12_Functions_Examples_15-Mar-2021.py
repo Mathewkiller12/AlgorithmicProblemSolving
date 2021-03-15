@@ -66,7 +66,7 @@ def square(root):
 
 # a rationalizing the function which returns the square of an argument
 def square(root):
-    """This function calculates the square of a the argument value"""
+    """This function calculates the square of the argument value"""
     # result = num * num
     return root * root
 
