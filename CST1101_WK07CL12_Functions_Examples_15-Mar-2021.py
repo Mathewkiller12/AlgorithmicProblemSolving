@@ -1,5 +1,5 @@
-# Topic 4 - Functions: Examples and Exercises
-# CST1101-OLXX Spr-2021 WK)&CL12 Review
+# Topic - Functions: Examples and Exercises
+# CST1101-OLXX Spr-2021 WK07CL12 Review
 # by Professor Patrick  PaSlattery@CityTech.CUNY.edu
 
 
